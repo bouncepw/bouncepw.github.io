@@ -1,2 +1,2 @@
 # bouncepw.github.io
-Bounce's repository
+Bounce's repository for small and useless website.
